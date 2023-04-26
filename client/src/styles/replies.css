@@ -1,0 +1,124 @@
+.reply_css {
+  font-size: 20px !important;
+}
+
+/* comment home page css */
+.home-replies-css .css-dev-only-do-not-override-1i9hnpv.ant-typography {
+  font-size: 1.5rem !important;
+}
+
+@media only screen and (max-width: 650px) {
+  .home-replies-css .css-dev-only-do-not-override-1i9hnpv.ant-typography {
+    font-size: 1.3rem !important;
+  }
+
+  .home-replies-css .label + .MuiInput-formControl {
+    margin-top: 10px !important;
+  }
+
+  .home-replies-css .MuiButton-label {
+    font-size: 10px !important;
+    /* position: absolute; */
+    top: 50px !important;
+  }
+
+  .reply_css {
+    font-size: 15px !important;
+  }
+
+  .replies-css h6 {
+    font-size: 10px !important;
+  }
+  .replies-css span {
+    font-size: 10px !important;
+  }
+}
+
+@media only screen and (max-width: 460px) {
+  .home-replies-css .css-dev-only-do-not-override-1i9hnpv.ant-typography {
+    font-size: 1rem !important;
+  }
+
+  .home-replies-css .label + .MuiInput-formControl {
+    margin-top: 1px !important;
+  }
+
+  .home-replies-css .MuiButton-label {
+    font-size: 6px !important;
+    /* position: absolute; */
+    top: 60px !important;
+  }
+
+  .reply_css {
+    font-size: 13px !important;
+  }
+
+  .replies-css h6 {
+    font-size: 10px !important;
+  }
+  .replies-css span {
+    font-size: 10px !important;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .home-replies-css .css-dev-only-do-not-override-1i9hnpv.ant-typography {
+    font-size: 1.3rem !important;
+  }
+
+  .home-replies-css .MuiInputBase-multiline {
+    padding: 0px;
+  }
+
+  .home-replies-css .label + .MuiInput-formControl {
+    margin-top: 10px !important;
+  }
+
+  .home-replies-css .MuiButton-label {
+    font-size: 10px !important;
+    /* position: absolute; */
+    top: 50px !important;
+  }
+
+  .reply_css {
+    font-size: 15px !important;
+  }
+
+  .replies-css h6 {
+    font-size: 8px !important;
+  }
+  .replies-css span {
+    font-size: 8px !important;
+  }
+}
+
+@media only screen and (max-width: 415px) {
+  .home-replies-css .css-dev-only-do-not-override-1i9hnpv.ant-typography {
+    font-size: 1rem !important;
+  }
+
+  .home-replies-css .MuiInputBase-multiline {
+    padding: 0px;
+  }
+
+  .home-replies-css .label + .MuiInput-formControl {
+    margin-top: 1px !important;
+  }
+
+  .home-replies-css .MuiButton-label {
+    font-size: 6px !important;
+    /* position: absolute; */
+    top: 60px !important;
+  }
+
+  .reply_css {
+    font-size: 15px !important;
+  }
+
+  .replies-css h6 {
+    font-size: 5px !important;
+  }
+  .replies-css span {
+    font-size: 5px !important;
+  }
+}

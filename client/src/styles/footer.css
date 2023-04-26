@@ -1,0 +1,75 @@
+footer {
+  background-color: #e7d9d9;
+  /* height: 400px; */
+  color: black;
+  position: absolute;
+  bottom: 0;
+  left: 30;
+  width: 100%;
+  z-index: -1;
+}
+
+footer .container {
+  display: flex;
+  flex-wrap: wrap;
+  /* background-color: red; */
+}
+
+/* footer .container div {
+    border: 1px solid white;
+} */
+
+footer .footer-card {
+  background-color: transparent !important;
+
+  margin: 0 1rem 0 1rem;
+}
+
+footer .footer-upSide {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+footer .footer-upSide .container {
+  margin: 1rem;
+  float: left;
+}
+
+footer .footer-upSide .footer-rightSide {
+  position: relative;
+  float: right;
+  /* width: 100%; */
+  /* background-color: red; */
+  font-size: 2rem;
+  margin: 1rem 1rem 1rem 3rem;
+}
+
+footer .sicon {
+  margin: 0 1rem 0 1rem;
+}
+
+footer .footer-downSide {
+  margin: 0 0 0 3rem;
+}
+
+footer .footer-logo {
+  margin: 1rem;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer a:hover {
+  cursor: pointer;
+}
+
+footer .footer-bottom {
+  margin-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+footer .footer-bottom-typo {
+  margin: 1rem 0 0 3rem;
+}

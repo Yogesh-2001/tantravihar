@@ -1,0 +1,17 @@
+.jodit-status-bar {
+  visibility: hidden;
+}
+.Text-center {
+  color: red;
+}
+
+.form-title {
+  color: darkblue;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.section-title {
+  text-align: center;
+  color: darkblue;
+}
